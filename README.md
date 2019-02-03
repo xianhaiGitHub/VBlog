@@ -142,17 +142,3 @@
 - 修复发图片博文的BUG 
 
 ## License
-
-Code licensed under the [Mozilla](LICENSE).
-
-------
-
-
-作者 *Laziji*
-
-
-
-
-
-  [1]: https://github-laziji.github.io
-  [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
